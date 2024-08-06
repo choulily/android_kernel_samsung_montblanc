@@ -1,0 +1,3 @@
+export VARIANT_DEFCONFIG=msm8974_sec_montblanc3g_ctc_defconfig
+make msm8974_sec_defconfig
+make
